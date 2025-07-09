@@ -7,9 +7,7 @@ This project implements a 32-bit Arithmetic Logic Unit (ALU) in Verilog with sup
 - `ALU_4bit.v`: Main Verilog module implementing the ALU logic
 - `README.md`: Project documentation (you're reading it!)
 - *(Optional)* `testbench.v`: For verifying behavior (can be added later)
-
-> 📌 **Note**: While named `ALU_4bit`, the module operates on 32-bit inputs and outputs 64-bit results. Feel free to rename it for clarity if needed.
-
+- 
 # Features
 - Supports 8 arithmetic operations:
   - `ADD`, `SUB`, `MUL`, `DIV` (Unsigned)
